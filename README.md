@@ -1,7 +1,8 @@
 # analyticsVidhya-IndiaML-khanij
 Solution and approach by Khanij for Analytics Viddhya India ML 2019 Challenge
 
-# Problem : https://datahack.analyticsvidhya.com/contest/india-ml-hiring-hackathon-2019/
+# Problem statement at:
+https://datahack.analyticsvidhya.com/contest/india-ml-hiring-hackathon-2019/
 
 # Approach:
 We consider this as logistic regression classification problem. We do the following.
